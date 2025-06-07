@@ -22,6 +22,7 @@ This project has two parts:
 
 - Click the green **"Code"** button on the GitHub page of this repository.
 - Select **"Open with GitHub Desktop"** and follow the prompts to clone the repository to your computer.
+- After cloning, open the folder in **Visual Studio Code**.
 
 ---
 
@@ -43,7 +44,7 @@ This project has two parts:
 
 #### Steps:
 1. Make sure you have [Node.js and npm](https://nodejs.org/) installed.
-2. Open a terminal (Command Prompt, PowerShell, or VS Code terminal).
+2. Open a terminal (Command Prompt, PowerShell, or the terminal in VS Code).
 3. Navigate to the `partb-react-components` folder:
    ```sh
    cd partb-react-components
@@ -58,6 +59,11 @@ This project has two parts:
    ```
 6. Open your browser and go to [http://localhost:3000](http://localhost:3000)
    - You will see the React/Next.js UI with the WelcomeCard, Counter, and StudentInfo components.
+
+---
+
+**Note:**  
+You must clone or download the repository to your computer before running any part of the project. It cannot be run directly from GitHub.
 
 ---
 
