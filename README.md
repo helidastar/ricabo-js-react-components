@@ -28,6 +28,7 @@ git clone https://github.com/your-username/ricabo-js-react-components.git
 
 Replace `your-username` with your actual GitHub username.
 
+or clicked "code" botton then select open with vs studio.
 ---
 
 ### 2. Part A – JavaScript Fundamentals
