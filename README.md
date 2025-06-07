@@ -20,15 +20,8 @@ This project has two parts:
 
 ### 1. Clone the Repository
 
-First, you need to clone this repository to your local machine:
-
-```sh
-git clone https://github.com/your-username/ricabo-js-react-components.git
-```
-
-Replace `your-username` with your actual GitHub username.
-
-Or, you can click the green **"Code"** button on GitHub and select **"Open with Visual Studio Code"** if you prefer.
+- Click the green **"Code"** button on the GitHub page of this repository.
+- Select **"Open with GitHub Desktop"** and follow the prompts to clone the repository to your computer.
 
 ---
 
