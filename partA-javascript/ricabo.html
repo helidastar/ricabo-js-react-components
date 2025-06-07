@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JavaScript Fundamentals</title>
+  <style>
+    body {
+      background: #FCFFE7; /* Cream */
+      color: #222;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+    }
+    .main-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .card {
+      background: #439889; /* Teal */
+      border-radius: 16px;
+      box-shadow: 0 4px 24px rgba(67,152,137,0.10);
+      padding: 32px 24px;
+      min-width: 350px;
+      color: #fff;
+      text-align: center;
+    }
+    #title {
+      color: #fff;
+      font-size: 2rem;
+      margin-bottom: 8px;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    .subtitle {
+      color: #A3D1C6;
+      margin-top: -10px;
+      margin-bottom: 24px;
+      font-size: 1.1rem;
+    }
+    #info {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+    }
+    button {
+      background: #A3D1C6; /* Aqua */
+      color: #222;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background: #B3D8B0; /* Light Green */
+    }
+  </style>
+</head>
+<body>
+  <div class="main-container">
+    <div class="card">
+      <h1 id="title">JavaScript Practice</h1>
+      <p class="subtitle">Welcome to my Website</p>
+      <p id="info">Click the button below:</p>
+      <button onclick="handleClick()">Click here to know me</button>
+    </div>
+  </div>
+  <script src="ricabo.js"></script>
+</body>
+</html>
