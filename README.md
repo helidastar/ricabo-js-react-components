@@ -112,3 +112,27 @@ BSCpE-2
 ## License
 
 This project is for educational purposes.
+
+---
+
+## Technologies and Tools Used
+
+This project uses the following technologies and tools:
+
+- **JavaScript (ES6+)** – For all JavaScript logic and DOM manipulation in Part A.
+- **HTML & CSS** – For structuring and styling the JavaScript Fundamentals page.
+- **React** – For building interactive UI components in Part B.
+- **Next.js** – A React framework for server-side rendering and easy routing in Part B.
+- **Node.js & npm** – For running and managing dependencies in the React/Next.js project.
+- **VS Code** – Recommended code editor for editing and running the project.
+- **Git & GitHub** – For version control and sharing the repository.
+
+### Notable Repositories/Packages Used in Part B
+
+- **react** – Main library for building user interfaces.
+- **next** – Framework for server-side rendering and routing.
+- **npm** – Node package manager for installing dependencies.
+
+You can find all dependencies for the React/Next.js part in the `partb-react-components/package.json` file.
+
+---
