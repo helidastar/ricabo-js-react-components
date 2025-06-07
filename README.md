@@ -28,22 +28,23 @@ git clone https://github.com/your-username/ricabo-js-react-components.git
 
 Replace `your-username` with your actual GitHub username.
 
-or clicked "code" botton then select open with vs studio.
+Or, you can click the green **"Code"** button on GitHub and select **"Open with Visual Studio Code"** if you prefer.
+
 ---
 
-### 2. Part A – JavaScript Fundamentals
+### 2. Run Part A – JavaScript Fundamentals
 
 **Location:** `partA-javascript/`
 
 #### Steps:
-1. Open the folder `partA-javascript` in your file explorer.
+1. Open the `partA-javascript` folder in your file explorer.
 2. Double-click `ricabo.html` to open it in your web browser.
 3. You will see the JavaScript Fundamentals UI.
    - Click the button to see JavaScript output and DOM manipulation in action.
 
 ---
 
-### 3. Part B – React/Next.js Components
+### 3. Run Part B – React/Next.js Components
 
 **Location:** `partb-react-components/`
 
