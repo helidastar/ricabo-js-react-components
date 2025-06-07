@@ -126,6 +126,7 @@ This project uses the following technologies and tools:
 - **Node.js & npm** – For running and managing dependencies in the React/Next.js project.
 - **VS Code** – Recommended code editor for editing and running the project.
 - **Git & GitHub** – For version control and sharing the repository.
+- **GitHub Copilot** – Used as an AI programming assistant to help write and review code.
 
 ### Notable Repositories/Packages Used in Part B
 
