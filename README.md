@@ -44,7 +44,7 @@ This project has two parts:
 
 #### Steps:
 1. Make sure you have [Node.js and npm](https://nodejs.org/) installed.
-2. Open a terminal (Command Prompt, PowerShell, or the terminal in VS Code).
+2. Open a terminal (VS Code is preferred: open VS Code, then press `Ctrl + \`` to open the integrated terminal. You can also use Command Prompt or PowerShell).
 3. Navigate to the `partb-react-components` folder:
    ```sh
    cd partb-react-components
