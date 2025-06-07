@@ -85,6 +85,7 @@ partb-react-components/
 ## Author
 
 Charity T. Ricabo
+BSCpE-2
 
 ---
 
