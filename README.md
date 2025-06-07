@@ -12,37 +12,56 @@ It is divided into two parts:
 
 ## How to Run This Project
 
-### Part A – JavaScript Fundamentals
+This project has two parts:  
+**Part A: JavaScript Fundamentals** (runs in your browser)  
+**Part B: React/Next.js Components** (runs with Node.js and npm)
+
+---
+
+### 1. Clone the Repository
+
+First, you need to clone this repository to your local machine:
+
+```sh
+git clone https://github.com/your-username/ricabo-js-react-components.git
+```
+
+Replace `your-username` with your actual GitHub username.
+
+---
+
+### 2. Part A – JavaScript Fundamentals
 
 **Location:** `partA-javascript/`
 
 #### Steps:
 1. Open the folder `partA-javascript` in your file explorer.
 2. Double-click `ricabo.html` to open it in your web browser.
-3. You will see the JavaScript Fundamentals UI.  
+3. You will see the JavaScript Fundamentals UI.
    - Click the button to see JavaScript output and DOM manipulation in action.
 
 ---
 
-### Part B – React/Next.js Components
+### 3. Part B – React/Next.js Components
 
 **Location:** `partb-react-components/`
 
 #### Steps:
-1. Open a terminal (Command Prompt, PowerShell, or VS Code terminal preffered).
-2. Navigate to the `partb-react-components` folder:
+1. Make sure you have [Node.js and npm](https://nodejs.org/) installed.
+2. Open a terminal (Command Prompt, PowerShell, or VS Code terminal).
+3. Navigate to the `partb-react-components` folder:
    ```sh
    cd partb-react-components
    ```
-3. Install the dependencies (only needed the first time):
+4. Install the dependencies (only needed the first time):
    ```sh
    npm install
    ```
-4. Start the development server:
+5. Start the development server:
    ```sh
    npm run dev
    ```
-5. Open your browser and go to [http://localhost:3000](http://localhost:3000)  
+6. Open your browser and go to [http://localhost:3000](http://localhost:3000)
    - You will see the React/Next.js UI with the WelcomeCard, Counter, and StudentInfo components.
 
 ---
