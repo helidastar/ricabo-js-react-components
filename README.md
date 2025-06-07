@@ -1,4 +1,4 @@
-# JS & React/NextJS Practice Activity
+# JS & React/NextJS Components
 
 ## Overview
 
